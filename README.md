@@ -7,4 +7,5 @@
 -   1) Currículo Lattes: http://lattes.cnpq.br/4056126457871561 
 -   2) Linkedin: https://www.linkedin.com/in/francisconetomaq/
 -   3) Twitter: https://twitter.com/engmecfrancisco
+-   4) Blog - Medium: https://medium.com/@francisconetodata
 
