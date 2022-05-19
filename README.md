@@ -1,3 +1,5 @@
+##
+
 - 👋 Hi, I’m Francisco Neto
 - 👀 I’m interested in Data Science, Python, Django (python) , Power BI, SQL and R.
 - 🌱 I’m currently learning javascript
@@ -5,12 +7,17 @@
 - 📫 How to reach me francisconetodata@gmail.com 
 
 
+## 
 
 <div align="center">
   <a href="https://github.com/francisconetodata">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisconetodata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisconetodata&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## 
+  
+<div align="center">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
       <img align="center" alt="MSsql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
