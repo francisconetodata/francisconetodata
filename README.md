@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Francisco Neto
 - 👀 I’m interested in Data Science, Python, Django (python) , Power BI, SQL and R.
-- 🌱 I’m currently learning javascript
+- 🌱 I am currently studying data engineering at UNICAMP.
 - 💞️ I’m looking to collaborate on area of finance and financial computing.
 - 📫 How to reach me francisconetodata@gmail.com 
 
