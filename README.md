@@ -27,4 +27,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=francisconetodata&icon=1&color=0)](https://visitcount.itsvg.in)
 
+## Contributions in the last year:
+
 ![snake gif](https://github.com/francisconetodata/francisconetodata/blob/output/github-contribution-grid-snake.svg)
