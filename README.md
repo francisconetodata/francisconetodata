@@ -8,15 +8,24 @@
 
 
 ## 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=francisconetodata&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=francisconetodata&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=francisconetodata&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <a href="https://github.com/francisconetodata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisconetodata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisconetodata&layout=compact&langs_count=7&theme=dracula"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=francisconetodata&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=francisconetodata&icon=0&color=1)](https://visitcount.itsvg.in)
+
 </div>
 
-## 
+
   
 <div align="center">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -32,7 +41,7 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
 </div>
   
-  ##
+
  
 <div> 
   <a href = "mailto:francisconetodata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
