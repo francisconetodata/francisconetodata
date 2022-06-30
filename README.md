@@ -27,4 +27,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=francisconetodata&icon=1&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/francisconetodata/francisconetodata/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/francisconetodata/francisconetodata/blob/output/github-contribution-grid-snake.svg)
