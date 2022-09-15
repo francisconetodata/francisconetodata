@@ -10,7 +10,8 @@
 
 -----
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&redirect=true)
+
+
 
 
 ## 🌐 Socials:
@@ -38,6 +39,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=francisconetodata&icon=1&color=0)](https://visitcount.itsvg.in)
 
+## Spotify:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&redirect=true)
 
 ## Contributions in the last year:
 
