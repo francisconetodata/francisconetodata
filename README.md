@@ -8,7 +8,8 @@
 - 💞️ I’m looking to collaborate on area of finance and financial computing.
 - 📫 How to reach me francisconetodata@gmail.com 
 
-
+-----
+![LinkedIn](https://spotify-github-profile.vercel.app/api/view.svg?uid=francisconetomaq&cover_image=true&theme=novatorem&bar_color=050505&bar_color_cover=false)
 
 ## 🌐 Socials:
 
@@ -35,9 +36,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=francisconetodata&icon=1&color=0)](https://visitcount.itsvg.in)
 
-----
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=francisconetomaq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=francisconetomaq&cover_image=true&theme=default&bar_color_cover=true)]]
 
 ## Contributions in the last year:
 
