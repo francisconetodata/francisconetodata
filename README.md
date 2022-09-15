@@ -9,7 +9,9 @@
 - 📫 How to reach me francisconetodata@gmail.com 
 
 -----
-![LinkedIn](https://spotify-github-profile.vercel.app/api/view.svg?uid=francisconetomaq&cover_image=true&theme=novatorem&bar_color=050505&bar_color_cover=false)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&redirect=true)
+
 
 ## 🌐 Socials:
 
