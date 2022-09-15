@@ -41,7 +41,7 @@
 
 ## Spotify:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&cover_image=true&theme=default&bar_color=050505&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&redirect=true)
 
 ## Contributions in the last year:
 
