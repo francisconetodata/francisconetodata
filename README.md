@@ -74,7 +74,7 @@
 
 ---
 
-<h2 align="center">🚀 Contributions in the last year:</h2>
+<h2 align="center">🚀 Contribuições no último ano:</h2>
 
 
 ![snake gif](https://github.com/francisconetodata/francisconetodata/blob/output/github-contribution-grid-snake.svg)
