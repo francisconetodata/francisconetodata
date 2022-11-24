@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Sou cientista de dados e programador python. 🇧🇷 🧑‍💻 </h3>
+<h3 align="center">Sou cientista de dados e programador Python. 🇧🇷 🧑‍💻 </h3>
 
 ---
 
