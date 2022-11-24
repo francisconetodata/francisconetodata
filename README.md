@@ -14,7 +14,6 @@
 - 📫 E-mail: **francisconetodata@gmail.com**
 
 <br>
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=francisconetodata&icon=1&color=0)](https://visitcount.itsvg.in)
 
