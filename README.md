@@ -2,7 +2,8 @@
 
 
 
-<h3 align="center">Sou cientista de dados e programador Python. 🇧🇷 🧑‍💻 </h3>
+<h3 align="center">Sou cientista de dados e programador Python. </h3>
+  <h3 align="center">🇧🇷 🧑‍💻 </h3>
 
 ---
 
@@ -61,7 +62,6 @@
 <h2 align="center">✍️ Citações Dev aleatórias:</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 
 
 
