@@ -36,17 +36,7 @@
 ---
 <h2 align="center">🕯️ Info Github:</h2>
 
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisconetodata&show_icons=true&bg_color=00000000&layout=compact" alt="francisconetodata" />
-<br>
-<br>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=francisconetodata&show_icons=true&bg_color=00000000" alt="francisconetodata" />
-
-
-<br>
 
 
 <br>
