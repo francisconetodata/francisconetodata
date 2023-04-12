@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Desenvolvedor Python, cientista de dados e engenharia de dados. </h3>
+<h3 align="center">Cientista de dados, desenvolvedor back-end python (django) e engenheiro de dados. </h3>
   <h3 align="center">🇧🇷 🧑‍💻 </h3>
 
 ---
