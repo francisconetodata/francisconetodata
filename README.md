@@ -135,7 +135,16 @@
   </div>
 
   <hr>
-
+  <div align="center">
+          <h2 align="center">✍️ Citações Dev aleatórias:</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=white" alt="Citações Dev">
+<hr>
+  <h2 align="center">🎶 Spotify:</h2>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=francisconetomaq&cover_image=true&theme=default&bar_color=000000&bar_color_cover=false" alt="Spotify Profile">
+  </a>
+  </div>
+  <hr>
 <h2 align="center">Projetos em destaque (Em construção e organização):</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Em construção" width="200" height="200">
