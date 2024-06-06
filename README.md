@@ -141,14 +141,7 @@
   <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Em construção" width="200" height="200">
   <p>Estamos trabalhando para trazer projetos incríveis. Fique ligado!</p>
 </div>
-  <hr>
-<h2 align="center">Últimos Tweets:</h2>
-Tweets criados por: [engmecfrancisco](https://twitter.com/engmecfrancisco?ref_src=twsrc%5Etfw)
-
-<div align="center">
-  <a class="twitter-timeline" data-width="600" data-height="600" data-dnt="true" data-theme="dark" href="https://twitter.com/engmecfrancisco?ref_src=twsrc%5Etfw">Tweets by engmecfrancisco</a> 
-  <script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+  
   <hr>
 
   <div align="center">
