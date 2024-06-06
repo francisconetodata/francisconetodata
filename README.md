@@ -36,7 +36,7 @@
   </div>
 
   <hr>
----
+
   <h2 align="center">Linguagens e Ferramentas:</h2>
   <div align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -136,25 +136,19 @@
 
   <hr>
 
-  <h2 align="center">Projetos em destaque (Em construção e organização):</h2>
-  <ul>
-    <li>
-      <a href="https://github.com/francisconetodata/projeto1">
-        <strong>Projeto 1</strong> - Descrição do projeto 1
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/francisconetodata/projeto2">
-        <strong>Projeto 2</strong> - Descrição do projeto 2
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/francisconetodata/projeto3">
-        <strong>Projeto 3</strong> - Descrição do projeto 3
-      </a>
-    </li>
-  </ul>
+<h2 align="center">Projetos em destaque (Em construção e organização):</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Em construção" width="200" height="200">
+  <p>Estamos trabalhando para trazer projetos incríveis. Fique ligado!</p>
+</div>
+  <hr>
+<h2 align="center">Últimos Tweets:</h2>
+Tweets criados por: [engmecfrancisco](https://twitter.com/engmecfrancisco?ref_src=twsrc%5Etfw)
 
+<div align="center">
+  <a class="twitter-timeline" data-width="600" data-height="600" data-dnt="true" data-theme="dark" href="https://twitter.com/engmecfrancisco?ref_src=twsrc%5Etfw">Tweets by engmecfrancisco</a> 
+  <script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
   <hr>
 
   <div align="center">
